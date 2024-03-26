@@ -10,7 +10,7 @@ Background GIF by [Inspiration Grid](https://www.pinterest.jp/pin/86377640355858
 
 </div>
 
-- 🔭  Hello everyone, I am a passionate front-end developer with a strong interest in exploring and learning new technologies. I am dedicated to transforming creative ideas into intuitive and interactive user experiences, and I enjoy the continuous learning and growth that comes with the process.
+- 🔭  Hi, I am a passionate front-end developer with a strong interest in exploring and learning new technologies. I am dedicated to transforming creative ideas into intuitive and interactive user experiences, and I enjoy the continuous learning and growth that comes with the process.
 
 - 🌱 On the technical side, I am proficient in front-end fundamentals such as HTML, CSS, and JavaScript, and I have in-depth understanding and practical experience with modern front-end frameworks like React and Vue. I focus on performance optimization, responsive design, and accessibility, committed to building websites and applications that are both aesthetically pleasing and efficient.
 
