@@ -10,11 +10,11 @@ Background GIF by [Inspiration Grid](https://www.pinterest.jp/pin/86377640355858
 
 </div>
 
-- ⚡ Hello everyone, I am a passionate front-end developer with a strong interest in exploring and learning new technologies. I am dedicated to transforming creative ideas into intuitive and interactive user experiences, and I enjoy the continuous learning and growth that comes with the process.
+- 🔭  Hello everyone, I am a passionate front-end developer with a strong interest in exploring and learning new technologies. I am dedicated to transforming creative ideas into intuitive and interactive user experiences, and I enjoy the continuous learning and growth that comes with the process.
 
-- ⚡ On the technical side, I am proficient in front-end fundamentals such as HTML, CSS, and JavaScript, and I have in-depth understanding and practical experience with modern front-end frameworks like React and Vue. I focus on performance optimization, responsive design, and accessibility, committed to building websites and applications that are both aesthetically pleasing and efficient.
+- 🌱 On the technical side, I am proficient in front-end fundamentals such as HTML, CSS, and JavaScript, and I have in-depth understanding and practical experience with modern front-end frameworks like React and Vue. I focus on performance optimization, responsive design, and accessibility, committed to building websites and applications that are both aesthetically pleasing and efficient.
 
-- ⚡ In addition to my technical skills, I also value teamwork and knowledge sharing. I enjoy exchanging ideas with colleagues from diverse backgrounds and working together to solve problems. I believe that through team collaboration and open communication, we can create outstanding products.
+- 📝 In addition to my technical skills, I also value teamwork and knowledge sharing. I enjoy exchanging ideas with colleagues from diverse backgrounds and working together to solve problems. I believe that through team collaboration and open communication, we can create outstanding products.
 
 - ⚡ I always believe that technology serves people, and as a front-end developer, my goal is to use my skills and knowledge to create richer and more convenient digital experiences for users. I look forward to growing and advancing the development of front-end technology through continuous learning and collaboration with everyone.
 
