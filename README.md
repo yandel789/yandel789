@@ -1,7 +1,7 @@
 <!--
  * @Author: Yandel Yan
  * @Date: 2024-03-27 00:10:15
- * @LastEditTime: 2024-04-28 09:47:03
+ * @LastEditTime: 2024-07-11 21:35:20
  * @LastEditors: Yandel
  * @Description: 
  * @FilePath: /yandel789/README.md
@@ -16,6 +16,7 @@ Background GIF by [Inspiration Grid](https://www.pinterest.jp/pin/86377640355858
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/progrannyan) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/%E9%B9%8F%E5%AE%87-%E9%A2%9C-6b9926110/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:progranyan@gmail.com?subject=Hello%20Yandel,%20From%20Github)
+[![Astro](https://skillicons.dev/icons?i=astro)](http://yandel.aiyan.fun/)
 
 </div>
 
@@ -35,7 +36,7 @@ Background GIF by [Inspiration Grid](https://www.pinterest.jp/pin/86377640355858
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,nodejs,ts,react,docker,jenkins,linux,py,tensorflow)](https://skillicons.dev)
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,nodejs,ts,react,docker,jenkins,py,tensorflow,linux,nginx)](https://skillicons.dev)
 
 <!-- ## 📖 Read My Blogs:
 
